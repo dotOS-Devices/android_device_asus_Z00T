@@ -3,7 +3,7 @@
     "remote"      : "github",
     "repository"  : "deadlyindian/android_device_asus_msm8916-common",
     "target_path" : "device/asus/msm8916-common",
-    "branch"      : "aex-n"
+    "branch"      : "aex"
   },
   {
     "remote"      : "github",
