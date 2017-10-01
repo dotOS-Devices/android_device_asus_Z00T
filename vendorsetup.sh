@@ -1,0 +1,3 @@
+add_lunch_combo aosp_Z00L-user
+add_lunch_combo aosp_Z00L-userdebug
+add_lunch_combo aosp_Z00L-eng
